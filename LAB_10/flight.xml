@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlightDetails>
+  <Flight>
+    <FlNo>101</FlNo>
+    <FlName>AirIndia</FlName>
+    <PilotName>Rahul Mehta</PilotName>
+    <From>Chennai</From>
+    <To>Mumbai</To>
+    <DateDeparts>2020-12-04</DateDeparts>
+    <TimeDeparts>08:30</TimeDeparts>
+    <TimeArrives>11:15</TimeArrives>
+    <Price>4800</Price>
+  </Flight>
+  <Flight>
+    <FlNo>102</FlNo>
+    <FlName>IndiGo</FlName>
+    <PilotName>Neha Singh</PilotName>
+    <From>Delhi</From>
+    <To>Goa</To>
+    <DateDeparts>2020-12-04</DateDeparts>
+    <TimeDeparts>06:00</TimeDeparts>
+    <TimeArrives>08:45</TimeArrives>
+    <Price>5200</Price>
+  </Flight>
+  <Flight>
+    <FlNo>103</FlNo>
+    <FlName>SpiceJet</FlName>
+    <PilotName>Arjun Verma</PilotName>
+    <From>Mumbai</From>
+    <To>Delhi</To>
+    <DateDeparts>2020-11-30</DateDeparts>
+    <TimeDeparts>17:00</TimeDeparts>
+    <TimeArrives>19:30</TimeArrives>
+    <Price>4500</Price>
+  </Flight>
+  <Flight>
+    <FlNo>104</FlNo>
+    <FlName>Vistara</FlName>
+    <PilotName>Rahul Mehta</PilotName>
+    <From>Chennai</From>
+    <To>Bangalore</To>
+    <DateDeparts>2020-11-25</DateDeparts>
+    <TimeDeparts>09:15</TimeDeparts>
+    <TimeArrives>10:45</TimeArrives>
+    <Price>3900</Price>
+  </Flight>
+  <Flight>
+    <FlNo>105</FlNo>
+    <FlName>AirAsia</FlName>
+    <PilotName>Neha Singh</PilotName>
+    <From>Delhi</From>
+    <To>Chennai</To>
+    <DateDeparts>2020-11-30</DateDeparts>
+    <TimeDeparts>21:00</TimeDeparts>
+    <TimeArrives>23:30</TimeArrives>
+    <Price>5700</Price>
+  </Flight>
+</FlightDetails>

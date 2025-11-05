@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeDetails>
+  <Employee>
+    <EID>101</EID>
+    <EName>Rahul Mehta</EName>
+    <Project>Alpha</Project>
+    <Job>Manager</Job>
+    <Dept>Human Resources</Dept>
+    <DeptNo>10</DeptNo>
+    <Salary>65000</Salary>
+  </Employee>
+  <Employee>
+    <EID>102</EID>
+    <EName>Neha Sharma</EName>
+    <Project>Beta</Project>
+    <Job>Developer</Job>
+    <Dept>IT</Dept>
+    <DeptNo>20</DeptNo>
+    <Salary>48000</Salary>
+  </Employee>
+  <Employee>
+    <EID>103</EID>
+    <EName>Arjun Verma</EName>
+    <Project>Alpha</Project>
+    <Job>Analyst</Job>
+    <Dept>Finance</Dept>
+    <DeptNo>30</DeptNo>
+    <Salary>52000</Salary>
+  </Employee>
+  <Employee>
+    <EID>104</EID>
+    <EName>Shreya Sen</EName>
+    <Project>Delta</Project>
+    <Job>Manager</Job>
+    <Dept>Human Resources</Dept>
+    <DeptNo>10</DeptNo>
+    <Salary>70000</Salary>
+  </Employee>
+  <Employee>
+    <EID>105</EID>
+    <EName>Karan Patel</EName>
+    <Project>Gamma</Project>
+    <Job>Developer</Job>
+    <Dept>IT</Dept>
+    <DeptNo>20</DeptNo>
+    <Salary>55000</Salary>
+  </Employee>
+</EmployeeDetails>

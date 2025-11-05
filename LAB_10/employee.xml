@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeDetails>
+  <Employee>
+    <EmpNo>101</EmpNo>
+    <EName>John Smith</EName>
+    <Job>Manager</Job>
+    <WorkingHours>9</WorkingHours>
+    <Dept>Research</Dept>
+    <DeptNo>10</DeptNo>
+    <Salary>50000</Salary>
+  </Employee>
+  <Employee>
+    <EmpNo>102</EmpNo>
+    <EName>Sam Brown</EName>
+    <Job>Developer</Job>
+    <WorkingHours>8</WorkingHours>
+    <Dept>Development</Dept>
+    <DeptNo>20</DeptNo>
+    <Salary>32000</Salary>
+  </Employee>
+  <Employee>
+    <EmpNo>103</EmpNo>
+    <EName>Susan Lee</EName>
+    <Job>Manager</Job>
+    <WorkingHours>10</WorkingHours>
+    <Dept>Sales</Dept>
+    <DeptNo>30</DeptNo>
+    <Salary>45000</Salary>
+  </Employee>
+  <Employee>
+    <EmpNo>104</EmpNo>
+    <EName>Rahul Singh</EName>
+    <Job>Analyst</Job>
+    <WorkingHours>7</WorkingHours>
+    <Dept>Research</Dept>
+    <DeptNo>10</DeptNo>
+    <Salary>29000</Salary>
+  </Employee>
+  <Employee>
+    <EmpNo>105</EmpNo>
+    <EName>Shreya Sen</EName>
+    <Job>Developer</Job>
+    <WorkingHours>9</WorkingHours>
+    <Dept>Research</Dept>
+    <DeptNo>10</DeptNo>
+    <Salary>40000</Salary>
+  </Employee>
+</EmployeeDetails>

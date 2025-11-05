@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentDetails>
+  <Student>
+    <STUID>201</STUID>
+    <SName>Rahul Kumar</SName>
+    <Course>B.Tech</Course>
+    <Dept>CSE</Dept>
+    <Marks>
+      <Subject name="DBMS">82</Subject>
+      <Subject name="OS">78</Subject>
+      <Subject name="CN">88</Subject>
+    </Marks>
+  </Student>
+  <Student>
+    <STUID>202</STUID>
+    <SName>Priya Sharma</SName>
+    <Course>B.Tech</Course>
+    <Dept>ECE</Dept>
+    <Marks>
+      <Subject name="DBMS">74</Subject>
+      <Subject name="OS">70</Subject>
+      <Subject name="CN">68</Subject>
+    </Marks>
+  </Student>
+  <Student>
+    <STUID>203</STUID>
+    <SName>Ananya Sen</SName>
+    <Course>B.Tech</Course>
+    <Dept>CSE</Dept>
+    <Marks>
+      <Subject name="DBMS">95</Subject>
+      <Subject name="OS">92</Subject>
+      <Subject name="CN">88</Subject>
+    </Marks>
+  </Student>
+</StudentDetails>
